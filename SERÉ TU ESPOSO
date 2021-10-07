@@ -1,0 +1,49 @@
+{
+  "title": "SERÉ TU ESPOSO",
+  "description": "La pareja de enamorados del siglo, famosa por la combinación de Aaron, un actor de un barrio marginal, y Benny, el hijo único de una familia chaebol, y Suin el gato y con Suin, esta pareja ha llegado a su fin. ¡Porque el romance de Aaron fue revelado por los paparazzi! Benny, que reza por la felicidad de su ex marido con cara de pena, parece la víctima perfecta, pero... ¿es la verdad? La ruptura de la pareja estrella, y la historia normal que hay detrás.",
+  "artist": "Gaeggi",
+  "author": "Gaeggi",
+  "cover": "https://www.anime-planet.com/images/manga/covers/thumbs/66454.jpg?t=1628544243.jpg",
+  "chapters": {
+    "1": {
+      "title": "Capítulo 1",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/r8yIUcK/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Capítulo 2",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/VOIO7RY/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "Capítulo 3",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/zq3DGd0/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Capítulo 4",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/nqT3o0M/"
+      },
+      "last_updated": "1619043765"
+     },
+    "6": {
+      "title": "Capítulo 6",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/nqT3o0M/"
+      },
+      "last_updated": "1619043765"        
+    }    
+  }
+}
